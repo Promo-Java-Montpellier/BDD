@@ -47,4 +47,5 @@ Sachant cela, on voudrait réaliser une nouvelle base de données sur les jeux, 
 
 Comment faire ?
 
+A rendre : une capture d'écran du concepteur(Designer en anglais), si possible, sinon l'exportation de la base de données.
 
